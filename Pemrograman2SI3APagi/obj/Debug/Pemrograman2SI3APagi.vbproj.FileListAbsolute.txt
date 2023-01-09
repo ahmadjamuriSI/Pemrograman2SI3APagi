@@ -1,0 +1,84 @@
+C:\Kisah Tegar Putra Abdi_Pemrograman 2 SI 3A Pagi 2022-1\Pemrograman2SI3APagi\Pemrograman2SI3APagi\bin\Debug\Pemrograman2SI3APagi.exe
+C:\Kisah Tegar Putra Abdi_Pemrograman 2 SI 3A Pagi 2022-1\Pemrograman2SI3APagi\Pemrograman2SI3APagi\bin\Debug\Pemrograman2SI3APagi.pdb
+C:\Kisah Tegar Putra Abdi_Pemrograman 2 SI 3A Pagi 2022-1\Pemrograman2SI3APagi\Pemrograman2SI3APagi\bin\Debug\Pemrograman2SI3APagi.xml
+C:\Kisah Tegar Putra Abdi_Pemrograman 2 SI 3A Pagi 2022-1\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\ResolveAssemblyReference.cache
+C:\Kisah Tegar Putra Abdi_Pemrograman 2 SI 3A Pagi 2022-1\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Form1.resources
+C:\Kisah Tegar Putra Abdi_Pemrograman 2 SI 3A Pagi 2022-1\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Resources.resources
+C:\Kisah Tegar Putra Abdi_Pemrograman 2 SI 3A Pagi 2022-1\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.vbproj.GenerateResource.Cache
+C:\Kisah Tegar Putra Abdi_Pemrograman 2 SI 3A Pagi 2022-1\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.exe
+C:\Kisah Tegar Putra Abdi_Pemrograman 2 SI 3A Pagi 2022-1\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.xml
+C:\Kisah Tegar Putra Abdi_Pemrograman 2 SI 3A Pagi 2022-1\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.pdb
+C:\Kisah Tegar Putra Abdi_Pemrograman 2 SI 3A Pagi 2022-1\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Kalkulator.resources
+C:\Kisah Tegar Putra Abdi_Pemrograman 2 SI 3A Pagi 2022-1\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Nilai.resources
+C:\Kisah Tegar Putra Abdi_Pemrograman 2 SI 3A Pagi 2022-1\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Belanja.resources
+C:\Kisah Tegar Putra Abdi_Pemrograman 2 SI 3A Pagi 2022-1\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.ordermakanan.resources
+C:\Kisah Tegar Putra Abdi_Pemrograman 2 SI 3A Pagi 2022-1\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.latihan1.resources
+C:\Kisah Tegar Putra Abdi_Pemrograman 2 SI 3A Pagi 2022-1\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Latihan2.resources
+C:\Kisah Tegar Putra Abdi_Pemrograman 2 SI 3A Pagi 2022-1\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Uts1.resources
+C:\Kisah Tegar Putra Abdi_Pemrograman 2 SI 3A Pagi 2022-1\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Uts2.resources
+C:\Kisah Tegar Putra Abdi_Pemrograman 2 SI 3A Pagi 2022-1\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Perulangan.resources
+C:\Kisah Tegar Putra Abdi_Pemrograman 2 SI 3A Pagi 2022-1\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Perulangan2.resources
+C:\Kisah Tegar Putra Abdi_Pemrograman 2 SI 3A Pagi 2022-1\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.ArrayDimensi1.resources
+C:\Kisah Tegar Putra Abdi_Pemrograman 2 SI 3A Pagi 2022-1\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.ArrayMultiDimensi.resources
+C:\Kisah Tegar Putra Abdi_Pemrograman 2 SI 3A Pagi 2022-1\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.biodata.resources
+C:\Kisah Tegar Putra Abdi_Pemrograman 2 SI 3A Pagi 2022-1\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.OptionButton.resources
+C:\Kisah Tegar Putra Abdi_Pemrograman 2 SI 3A Pagi 2022-1\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Loading.resources
+C:\Kisah Tegar Putra Abdi_Pemrograman 2 SI 3A Pagi 2022-1\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.TampilanForm1.resources
+C:\Kisah Tegar Putra Abdi_Pemrograman 2 SI 3A Pagi 2022-1\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.TampilanForm2.resources
+C:\Kisah Tegar Putra Abdi_Pemrograman 2 SI 3A Pagi 2022-1\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Loading2.resources
+C:\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.exe
+C:\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.xml
+C:\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.pdb
+C:\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\bin\Debug\Pemrograman2SI3APagi.exe
+C:\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\bin\Debug\Pemrograman2SI3APagi.pdb
+C:\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\bin\Debug\Pemrograman2SI3APagi.xml
+C:\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\ResolveAssemblyReference.cache
+C:\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.ArrayDimensi1.resources
+C:\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.ArrayMultiDimensi.resources
+C:\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Belanja.resources
+C:\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.biodata.resources
+C:\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Form1.resources
+C:\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Kalkulator.resources
+C:\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.latihan1.resources
+C:\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Latihan2.resources
+C:\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Loading.resources
+C:\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Loading2.resources
+C:\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Resources.resources
+C:\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Nilai.resources
+C:\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.OptionButton.resources
+C:\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.ordermakanan.resources
+C:\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Perulangan.resources
+C:\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Perulangan2.resources
+C:\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.TampilanForm1.resources
+C:\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.TampilanForm2.resources
+C:\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Uts1.resources
+C:\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Uts2.resources
+C:\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.vbproj.GenerateResource.Cache
+C:\KULIAH PEMROGRAMAN VB.S3\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.exe
+C:\KULIAH PEMROGRAMAN VB.S3\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.xml
+C:\KULIAH PEMROGRAMAN VB.S3\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.pdb
+C:\KULIAH PEMROGRAMAN VB.S3\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\bin\Debug\Pemrograman2SI3APagi.exe
+C:\KULIAH PEMROGRAMAN VB.S3\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\bin\Debug\Pemrograman2SI3APagi.pdb
+C:\KULIAH PEMROGRAMAN VB.S3\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\bin\Debug\Pemrograman2SI3APagi.xml
+C:\KULIAH PEMROGRAMAN VB.S3\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\ResolveAssemblyReference.cache
+C:\KULIAH PEMROGRAMAN VB.S3\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.ArrayDimensi1.resources
+C:\KULIAH PEMROGRAMAN VB.S3\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.ArrayMultiDimensi.resources
+C:\KULIAH PEMROGRAMAN VB.S3\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Belanja.resources
+C:\KULIAH PEMROGRAMAN VB.S3\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.biodata.resources
+C:\KULIAH PEMROGRAMAN VB.S3\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Form1.resources
+C:\KULIAH PEMROGRAMAN VB.S3\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Kalkulator.resources
+C:\KULIAH PEMROGRAMAN VB.S3\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.latihan1.resources
+C:\KULIAH PEMROGRAMAN VB.S3\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Latihan2.resources
+C:\KULIAH PEMROGRAMAN VB.S3\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Loading.resources
+C:\KULIAH PEMROGRAMAN VB.S3\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Loading2.resources
+C:\KULIAH PEMROGRAMAN VB.S3\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Resources.resources
+C:\KULIAH PEMROGRAMAN VB.S3\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Nilai.resources
+C:\KULIAH PEMROGRAMAN VB.S3\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.OptionButton.resources
+C:\KULIAH PEMROGRAMAN VB.S3\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.ordermakanan.resources
+C:\KULIAH PEMROGRAMAN VB.S3\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Perulangan.resources
+C:\KULIAH PEMROGRAMAN VB.S3\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Perulangan2.resources
+C:\KULIAH PEMROGRAMAN VB.S3\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.TampilanForm1.resources
+C:\KULIAH PEMROGRAMAN VB.S3\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.TampilanForm2.resources
+C:\KULIAH PEMROGRAMAN VB.S3\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Uts1.resources
+C:\KULIAH PEMROGRAMAN VB.S3\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.Uts2.resources
+C:\KULIAH PEMROGRAMAN VB.S3\MATERI VB.NET SEMESTER 3\UPLOAD-main\Pemrograman2SI3APagi\Pemrograman2SI3APagi\obj\Debug\Pemrograman2SI3APagi.vbproj.GenerateResource.Cache
